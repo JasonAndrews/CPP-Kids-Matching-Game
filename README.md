@@ -1,6 +1,6 @@
-# Java-Kids-Matching-Game
+# CPP-Kids-Matching-Game
 
-A simple Java based game for kids to play.
+A simple C++ game for kids to play.
 
 There will also (maybe) be a challenge mode where the user can play against the computer.
 
