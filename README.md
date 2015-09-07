@@ -1,6 +1,10 @@
 # CPP-Kids-Matching-Game
 
-A simple C++ game for kids to play.
+## Created Using
+SFML 2.3.1 (GCC 4.8.1 TDM (SJLJ) - 32-bit)
+Codeblocks 13.12 (MinGW version)
+
+A simple C++ game for kids.
 
 There will also (maybe) be a challenge mode where the user can play against the computer.
 
